@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "SystemManagementsDB\People.csproj", "{14D689CE-161E-469A-8FD8-D453DBF232A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog", "SystemManagementsDB\prog.csproj", "{14D689CE-161E-469A-8FD8-D453DBF232A3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemManagementDbService", "SystemManagementDbService\SystemManagementDbService.csproj", "{872F084D-C691-44FB-8AA2-95CA68E93FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "People\People.csproj", "{9B1B5C72-2DCD-4E8E-8B48-95FEFD81294B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{872F084D-C691-44FB-8AA2-95CA68E93FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{872F084D-C691-44FB-8AA2-95CA68E93FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{872F084D-C691-44FB-8AA2-95CA68E93FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1B5C72-2DCD-4E8E-8B48-95FEFD81294B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1B5C72-2DCD-4E8E-8B48-95FEFD81294B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1B5C72-2DCD-4E8E-8B48-95FEFD81294B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1B5C72-2DCD-4E8E-8B48-95FEFD81294B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

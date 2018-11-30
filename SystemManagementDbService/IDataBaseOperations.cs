@@ -10,11 +10,13 @@ namespace SystemManagementDbService
     public interface IDataBaseOperations
     {
         Task<string> Add(Person person);
-        Task Add(History history);
+        Task<Person> GetPerson(string id);
+        Task<Person> Add(History history);
         bool Edit(Person person);
         bool Delete(Person person);
         List<Person> GetPersons(string table);
         List<Person> GetUsers(string table);
         List<Person> GetHistory(string table);
+
     }
 }

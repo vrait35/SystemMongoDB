@@ -1,0 +1,12 @@
+C:\Users\темирбулата\source\repos\SystemManagementsDB\People\bin\Debug\People.dll
+C:\Users\темирбулата\source\repos\SystemManagementsDB\People\bin\Debug\People.pdb
+C:\Users\темирбулата\source\repos\SystemManagementsDB\People\obj\Debug\People.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\SystemManagementsDB\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\SystemManagementsDB\People\obj\Debug\People.dll
+C:\Users\темирбулата\source\repos\SystemManagementsDB\People\obj\Debug\People.pdb
+C:\Users\anuar\Desktop\SystemManagementsDB\People\bin\Debug\People.dll
+C:\Users\anuar\Desktop\SystemManagementsDB\People\bin\Debug\People.pdb
+C:\Users\anuar\Desktop\SystemManagementsDB\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+C:\Users\anuar\Desktop\SystemManagementsDB\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\anuar\Desktop\SystemManagementsDB\People\obj\Debug\People.dll
+C:\Users\anuar\Desktop\SystemManagementsDB\People\obj\Debug\People.pdb
